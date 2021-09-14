@@ -1,14 +1,14 @@
 pyrogram
-TgCrypto
+TgCrypto==1.2.2
 py-tgcalls==0.5.2
 python-dotenv
 youtube_dl
 youtube_search_python
-requests
+requests==2.26.0
 aiohttp
 aiofiles
 asyncio
 youtube_search
 search_engine_parser
 ffmpeg
-Pillow
+Pillow==8.3.2
